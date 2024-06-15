@@ -1,0 +1,1 @@
+document.querySelector("h1").innerHTML = "We are iSAD!";
